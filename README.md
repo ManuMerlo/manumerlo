@@ -1,4 +1,12 @@
-### Hi there 👋
+### printf("Hello World!") 👋🌎
+I am a 23-year-old computer engineering passionate.👩‍💻 Not only do I thrive on tech challenges, but I also face real-life ones head-on, especially when they involve a rigorous session at the gym! 💪
+Professionally, I am on a constant quest to learn from the best in the tech space. 
+I firmly believe that collaboration is the secret sauce to innovation and growth.
+When I am not deep diving into the binary realm, I celebrate life's moments, forge relationships, and make a laugh or two. 🎉
+Technically speaking, my interests range from cybersecurity to mobile development and data management. I look forward to opportunities to broaden my expertise in these domains and stay updated on the latest trends and technologies.
+I am all charged up and ready to embark on my next academic and personal adventure @ KU Leuven. Excited to collaborate, innovate, and share this journey with other enthusiasts! 🚀🥳
+
+📫 You can reach me at: merlomanu1999@gmail.com
 
 <!--
 **ManuMerlo/manumerlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
